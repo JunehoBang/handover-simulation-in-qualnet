@@ -16,4 +16,4 @@ That is, I do not have authority to post the whole code of layer3_lte.cpp
 
 So I just posted the functions that contains my modification
 
-[^1]: Bang et. al., "A Bayesian Regression Based LTE-R Handover Decision Algorithm for High-Speed Railway Systems", IEEE Transactions on Vehicular Technology, vol. 68, no. 10, pp. 10160 - 10173, Aug. 2019, URL: https://ieeexplore.ieee.org/abstract/document/8798886
+[^1]: Bang et. al., "A Bayesian Regression Based LTE-R Handover Decision Algorithm for High-Speed Railway Systems", *IEEE Transactions on Vehicular Technology*, vol. 68, no. 10, pp. 10160 - 10173, Aug. 2019, URL: https://ieeexplore.ieee.org/abstract/document/8798886
