@@ -3,7 +3,7 @@
 This project includes the C++ and MATLAB files for simulating the handover decision algorithms using the QualNet simulator (v. 7.1)
 This simulation was configured to verify the gains of the ML based handover decision algorithm specified in the following research paper:
 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=il5kaFUAAAAJ&citation_for_view=il5kaFUAAAAJ:roLk4NBRz8UC
+https://ieeexplore.ieee.org/abstract/document/8798886
 
 In the C++ file, layer3_lte.cpp, I implemented the standard handover decision algorithms 
 and my proposed one which interacts with the MATLAB code in crossingtimeprediction.m to make predictions of the mobile device's mobility. 
