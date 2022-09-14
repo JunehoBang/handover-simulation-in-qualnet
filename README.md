@@ -1,6 +1,6 @@
 # handover-simulation-in-qualnet
 
-This project includes the C++ and MATLAB files for simulating the handover decision algorithms using the `QualNet simulator (v. 7.1)`
+This repository includes the C++ and MATLAB files for simulating the handover decision algorithms using the `QualNet simulator (v. 7.1)`
 This simulation was configured to verify the gains of the ML based handover decision algorithm specified in the following research paper [^1]
 
 
