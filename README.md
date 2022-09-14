@@ -8,3 +8,8 @@ and my proposed one which interacts with the MATLAB code in crossingtimepredicti
 The prediction is based on Bayesian regression, a probabilistic ML algorithm. At the beginning of the simulation,
 the C++ commands the MATLAB to train the ML model using the code written in trainMybrm.m. 
 cdft.m file describes the way of calculating cummulative probability distribution of Student's t-distribution.
+
+Please note that the C++ file is part of the QualNet's LTE implementation that is commercial software and I modified the code. 
+That is, I do not have authority to post the whole code of layer3_lte.cpp
+
+So I just posted the functions that contains my modification
